@@ -1,4 +1,4 @@
-# steerd-io
+# Steerd
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-steerd-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://steerd.io/
+Steerd provides an all‑in‑one platform for freelancers and small businesses, combining CRM, CV management, time tracking, travel expense logging, and invoicing. The tool lets users manage client relationships, store candidate resumes, track project hours, record trips, and generate invoices in a unified interface, streamlining administrative workflows and improving billing accuracy.
+
+**Areas:** CRM · Invoicing · TimeTracking · Freelancers · SmallBusiness
+
+## Steerd on APIs.io
+
+Everything profiled for Steerd is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/steerd-io/](https://apis.io/providers/steerd-io/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Steerd Authentication](https://apis.io/security/steerd-io/steerd-io-authentication/)
+- [Steerd Domain Security](https://apis.io/security/steerd-io/steerd-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Steerd Plans Pricing](https://apis.io/plans/steerd-io/steerd-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Steerd Rate Limits](https://apis.io/rate-limits/steerd-io/steerd-io-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://steerd.io/)
+- [Documentation](https://www.steerd.io/guides)
+- [Getting started](https://docs.steerd.io/quickstart)
+- [API reference](https://docs.steerd.io/reference)
+- [Pricing](https://www.steerd.io/pricing)
+- [Support](https://help.steerd.io)
+- [Changelog](https://www.steerd.io/release-notes)
+- [Terms of service](https://www.steerd.io/terms)
+- [Privacy policy](https://www.steerd.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 29.5** — thin · rubric 0.28.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 47.1 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 48.5 |
+
+**Agent readiness 27.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/steerd-io/](https://apis.io/providers/steerd-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Steerd: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/steerd-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
